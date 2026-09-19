@@ -31,14 +31,62 @@ Here is a glimpse of the app in action:
   <img src="assets/App%20Screenshot/SearchPage.png" width="19%" />
 </p>
 
-## 👥 Credits & Contact
+---
 
-- **Developer:** Rahul Loyal Dalmas | [Instagram](https://www.instagram.com/rahulloyaldalmas/)
-- **Production Company:** Shruhh Inc | [Instagram](https://www.instagram.com/shruhh.inc/)
-- **Contact / Developer Mail:** [itsrahulloyaldalmas@gmail.com](mailto:itsrahulloyaldalmas@gmail.com)
+## 🛠 Tech Stack
 
-## 🏷️ Tags
-`youtubemusic`, `youtube-music`, `yt music`, `youtubemusicalternative`
+Orbit Music is built from the ground up as a native Android application using modern architecture, high performance libraries, and best-in-class UI tools:
+
+- **Core Language**: Kotlin (configured with JVM 21 toolchain)
+- **UI Framework**: Jetpack Compose (using Compose Foundation, Runtime, and Material 3 Adaptive/Expressive APIs)
+- **Audio Engine**: AndroidX Media3 (ExoPlayer HLS, Transformer, and Media3 Session for foreground services)
+- **Dependency Injection**: Dagger Hilt
+- **Database & Cache**: Room Database (SQLite) with KSP
+- **Networking**: Ktor Client (OkHttp engine) and Ktor Server (CIO engine with WebSockets for real-time Listen Together features)
+- **Image Loading**: Coil (integrated with OkHttp client)
+- **Lyrics & Recognition Services**: ShazamKit SDK, LrcLib API, KuGou Lyrics, and InnerTube
+- **Rich Presence Integration**: Kizzy (Discord presence status integration)
+- **Analytics & Messaging**: Firebase Suite (Analytics, Cloud Messaging, Crashlytics)
+- **Visuals & Styling**: SquigglySlider, Kyant0 m3color, Compose Cloudy blurs
+
+---
+
+## 👨‍💻 Developer & Team
+
+<div align="center">
+
+### **Rahul Loyal Dalmas**
+*Full-Stack Mobile Engineer & Creator*
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rahul_.loyal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-loyal-dalmas-5baa4532b/)
+
+---
+
+### **Powered by Shruhh.Inc**
+*Building premium, user-first digital experiences.*
+
+</div>
+
+---
+
+## ⚖️ License & Showcase
+
+This repository serves as a **public showcase** of the Orbit Music application. No application source code is hosted here.
+
+- The application is **proprietary software** owned by Shruhh.Inc.
+- All rights reserved © 2024-2026 Shruhh.Inc.
+
+---
+
+<div align="center">
+
+**Made with ❤️ by [Rahul Loyal Dalmas](https://www.linkedin.com/in/rahul-loyal-dalmas-5baa4532b/) — Powered by [Shruhh.Inc](https://www.instagram.com/rahul_.loyal/)**
+
+*If you love Orbit Music, don't forget to drop a ⭐ on this repository!*
+
+</div>
+
 
 ## 🚀 Getting Started
 
