@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Orbit Music 🎵</h1>
-  <p><b>The Ultimate YouTube Music Alternative for Ad-Free Listening</b></p>
+  <h1>Orbit Music</h1>
+  <p><b>An YouTube Music Client</b></p>
   <p>
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red" alt="Open Source">
     <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android">
